@@ -1,0 +1,9 @@
+hola
+soy
+una 
+prueba
+de codigo
+para
+el script
+de pipe
+para bash
