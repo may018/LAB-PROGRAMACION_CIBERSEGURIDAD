@@ -1,0 +1,1436 @@
+
+Configuraci¢n IP de Windows
+
+    www.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : www.gstatic.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 92
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.163
+
+
+    dis.criteo.com
+    ----------------------------------------
+    Nombre de registro  . : dis.criteo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 135
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : widget.da1.vip.prod.criteo.com
+
+
+    Nombre de registro  . : widget.da1.vip.prod.criteo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 135
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.119.118.138
+
+
+    secure.quantserve.com
+    ----------------------------------------
+    Nombre de registro  . : secure.quantserve.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : 2kpixel.quantserve.com
+
+
+    Nombre de registro  . : 2kpixel.quantserve.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : global.px.quantserve.com
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.152
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.146
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.143
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.231
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.193
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.149
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.141
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 119
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.139
+
+
+    edgedl.me.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : edgedl.me.gvt1.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 764
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 34.104.35.123
+
+
+    8fd9788e-4bd2-4c59-9b4e-833897cf39d1.us.u.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : 8fd9788e-4bd2-4c59-9b4e-833897cf39d1.us.u.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2585
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.130.91
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    www.googletagmanager.com
+    ----------------------------------------
+    Nombre de registro  . : www.googletagmanager.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 201
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : www-googletagmanager.l.google.com
+
+
+    Nombre de registro  . : www-googletagmanager.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 201
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.2.136
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per¡odo de vida . . . : 603673
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro PTR. . . . . : secure.counterpath.com
+
+
+    static.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : static.doubleclick.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 56
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : static-doubleclick-net.l.google.com
+
+
+    Nombre de registro  . : static-doubleclick-net.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 56
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.3.134
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.179.206
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.36.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.39.110
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.168.206
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.214.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.179.142
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.36.46
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.168.238
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 100
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.179.174
+
+
+    array801.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array801.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1092
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 40.91.80.89
+
+
+    tpc.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : tpc.googlesyndication.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.97
+
+
+    jnn-pa.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : jnn-pa.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 108
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.10
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.3.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.246
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.118
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.246
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.54
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.182
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.214
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.246
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.35.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 131
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.2.150
+
+
+    servedby.flashtalking.com
+    ----------------------------------------
+    Nombre de registro  . : servedby.flashtalking.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 110
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cds.f7f2q8c3.hwcdn.net
+
+
+    Nombre de registro  . : cds.f7f2q8c3.hwcdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 110
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 209.197.3.19
+
+
+    api.retargetly.com
+    ----------------------------------------
+    Nombre de registro  . : api.retargetly.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 149
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.67.8.244
+
+
+    Nombre de registro  . : api.retargetly.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 149
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.22.17.141
+
+
+    Nombre de registro  . : api.retargetly.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 149
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.22.16.141
+
+
+    ssl.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : ssl.gstatic.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 171
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.99
+
+
+    adservice.google.com.mx
+    ----------------------------------------
+    Nombre de registro  . : adservice.google.com.mx
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 30
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead46.l.doubleclick.net
+
+
+    Nombre de registro  . : pagead46.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 30
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.226
+
+
+    static.sunmedia.tv
+    ----------------------------------------
+    Nombre de registro  . : static.sunmedia.tv
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : caching.sunmedia.edge2befaster.io
+
+
+    Nombre de registro  . : caching.sunmedia.edge2befaster.io
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cec01.usg.sunmedia.edgetcdn.io
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 143.244.35.228
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 51.161.15.30
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 51.81.154.83
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 138.199.8.196
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 143.244.35.230
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 138.199.8.195
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 212.102.45.225
+
+
+    Nombre de registro  . : cec01.usg.sunmedia.edgetcdn.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 143.244.35.229
+
+
+    r5---sn-9gv7enls.c.2mdn.net
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-9gv7enls.c.2mdn.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 358
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-9gv7enls.c.2mdn.net
+
+
+    Nombre de registro  . : r5.sn-9gv7enls.c.2mdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 358
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 173.194.57.10
+
+
+    sentry.io
+    ----------------------------------------
+    Nombre de registro  . : sentry.io
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2536
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 35.188.42.15
+
+
+    partner.googleadservices.com
+    ----------------------------------------
+    Nombre de registro  . : partner.googleadservices.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : partnerad.l.doubleclick.net
+
+
+    Nombre de registro  . : partnerad.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.2.130
+
+
+    fp-vs-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    dsp.adfarm1.adition.com
+    ----------------------------------------
+    Nombre de registro  . : dsp.adfarm1.adition.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 82415
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 85.114.159.93
+
+
+    Nombre de registro  . : dsp.adfarm1.adition.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 82415
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 85.114.159.118
+
+
+    cs.admanmedia.com
+    ----------------------------------------
+    Nombre de registro  . : cs.admanmedia.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1879
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 8.2.111.142
+
+
+    lin-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : lin-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 28579
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 146.75.54.91
+
+
+    beacons4.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons4.gvt2.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 140
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.239.32.116
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 110
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.228
+
+
+    lga-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : lga-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 16711
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 199.232.38.91
+
+
+    d9.flashtalking.com
+    ----------------------------------------
+    Nombre de registro  . : d9.flashtalking.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : ft.device9.com
+
+
+    Nombre de registro  . : ft.device9.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : tag.device9.com
+
+
+    Nombre de registro  . : tag.device9.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 54.197.99.14
+
+
+    Nombre de registro  . : tag.device9.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 34.233.31.9
+
+
+    Nombre de registro  . : tag.device9.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 3.209.62.211
+
+
+    dc1-st.ksn.kaspersky-labs.com
+    ----------------------------------------
+    Nombre de registro  . : dc1-st.ksn.kaspersky-labs.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 554
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : ksn-dc1-st.geoksn.kaspersky.com
+
+
+    Nombre de registro  . : ksn-dc1-st.geoksn.kaspersky.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 554
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 66.110.49.114
+
+
+    Nombre de registro  . : ksn-dc1-st.geoksn.kaspersky.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 554
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 66.110.49.115
+
+
+    dal-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : dal-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 8973
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 199.232.10.91
+
+
+    youtube.com
+    ----------------------------------------
+    Nombre de registro  . : youtube.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 44
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.238
+
+
+    cdnjs.cloudflare.com
+    ----------------------------------------
+    Nombre de registro  . : cdnjs.cloudflare.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 171
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.17.24.14
+
+
+    Nombre de registro  . : cdnjs.cloudflare.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 171
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.17.25.14
+
+
+    securepubads.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : securepubads.g.doubleclick.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 151
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : partnerad.l.doubleclick.net
+
+
+    Nombre de registro  . : partnerad.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 151
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.2
+
+
+    id5-sync.com
+    ----------------------------------------
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.67
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.70
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.71
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.65
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.66
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.64
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.68
+
+
+    Nombre de registro  . : id5-sync.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14291
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 141.95.98.69
+
+
+    pixel.quantserve.com
+    ----------------------------------------
+    Nombre de registro  . : pixel.quantserve.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : global.px.quantserve.com
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.146
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.149
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.152
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.141
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.139
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.143
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.231
+
+
+    Nombre de registro  . : global.px.quantserve.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.184.69.193
+
+
+    s0.2mdn.net
+    ----------------------------------------
+    Nombre de registro  . : s0.2mdn.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 54
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : s0-2mdn-net.l.google.com
+
+
+    Nombre de registro  . : s0-2mdn-net.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 54
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.198
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : fonts.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 227
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.138
+
+
+    fp-vp-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 55
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    mci-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : mci-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 9204
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 199.232.74.91
+
+
+    ssl.google-analytics.com
+    ----------------------------------------
+    Nombre de registro  . : ssl.google-analytics.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 196
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : ssl-google-analytics.l.google.com
+
+
+    Nombre de registro  . : ssl-google-analytics.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 196
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.8
+
+
+    pwk-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : pwk-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14711
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 199.232.78.91
+
+
+    ocsp05.actalis.it
+    ----------------------------------------
+    Nombre de registro  . : ocsp05.actalis.it
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : ocsp.actalis.it
+
+
+    Nombre de registro  . : ocsp.actalis.it
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 109.70.240.130
+
+
+    secure.counterpath.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    secure.counterpath.com
+    ----------------------------------------
+    Nombre de registro  . : secure.counterpath.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 603673
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 305
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 305
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 305
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 305
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    cdn.ampproject.org
+    ----------------------------------------
+    Nombre de registro  . : cdn.ampproject.org
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 221
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cdn-content.ampproject.org
+
+
+    Nombre de registro  . : cdn-content.ampproject.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 221
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.33
+
+
+    dsp.nrich.ai
+    ----------------------------------------
+    Nombre de registro  . : dsp.nrich.ai
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 856
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 51.255.68.171
+
+
+    t.co
+    ----------------------------------------
+    Nombre de registro  . : t.co
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.5
+
+
+    Nombre de registro  . : t.co
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.133
+
+
+    Nombre de registro  . : t.co
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.69
+
+
+    Nombre de registro  . : t.co
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 31
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.197
+
+
+    bos-v4.pops.fastly-insights.com
+    ----------------------------------------
+    Nombre de registro  . : bos-v4.pops.fastly-insights.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 24192
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 151.101.118.91
+
+
+    adservice.google.com
+    ----------------------------------------
+    Nombre de registro  . : adservice.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 120
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.36.34
+
+
+    yt3.ggpht.com
+    ----------------------------------------
+    Nombre de registro  . : yt3.ggpht.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 123
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : photos-ugc.l.googleusercontent.com
+
+
+    Nombre de registro  . : photos-ugc.l.googleusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 123
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.161
+
+
+    crlog-crcn.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : crlog-crcn.adobe.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 5627
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.147.130.166
+
+
+    ade.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : ade.googlesyndication.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 28
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.34
+
+
+    ad.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : ad.doubleclick.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 101
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : dart.l.doubleclick.net
+
+
+    Nombre de registro  . : dart.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 101
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.3.134
+
+
+    googleads.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : googleads.g.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 133
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.226
+
+
+    tpsc-uw2.doubleverify.com
+    ----------------------------------------
+    Nombre de registro  . : tpsc-uw2.doubleverify.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 526
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 34.117.158.252
+
+
+    googleads4.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : googleads4.g.doubleclick.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 194
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.34
+
+
+    match.adsrvr.org
+    ----------------------------------------
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 17591
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.223.40.198
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 17591
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 35.71.131.137
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 17591
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 15.197.193.217
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 17591
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 3.33.220.150
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 356
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 356
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 356
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 356
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    visitor.omnitagjs.com
+    ----------------------------------------
+    Nombre de registro  . : visitor.omnitagjs.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 82675
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : visitor-usa02.omnitagjs.com
+
+
+    Nombre de registro  . : visitor-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 82675
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.11
+
+
+    Nombre de registro  . : visitor-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 82675
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.10
+
+
+    inv-nets.admixer.net
+    ----------------------------------------
+    Nombre de registro  . : inv-nets.admixer.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 2379
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : inv-nets-nyc-s1.admixer.net
+
+
+    Nombre de registro  . : inv-nets-nyc-s1.admixer.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2379
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 204.62.13.72
+
+
